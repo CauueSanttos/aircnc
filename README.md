@@ -1,9 +1,1 @@
-# omnistack-week-9
-# omnistack-week-9
-# omnistack-week-9
-# omnistack-week-9
-# omnistack-week-9
-# omnistack-week-9
-# omnistack-week-9
-# omnistack-week-9
-# omnistack-week-9
+# Semana 9 OmniStack | Rocketseat
