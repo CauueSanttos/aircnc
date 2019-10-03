@@ -26,6 +26,7 @@ module.exports = {
       thumbnail: filename,
       techs: techs.split(',').map(tech => tech.trim()),
       price,
+      company
     });
 
     return res.json(newSpot);
