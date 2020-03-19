@@ -1,1 +1,0 @@
-yarn create react-app nomedapasta - Para criar um layout de aplicação React
