@@ -7,9 +7,13 @@ import logo from './assets/logo.svg';
 import Routes from './routes';
 
 function App() {
+  async function handleSignOut() {
+    localStorage.removeItem('user');
+  }
+
   return (
     <div className="container">
-      <img src={logo} alt="AirCnC"/>
+      <img src={logo} onClick={handleSignOut} alt="AirCnC"/>
 
       <div className="content">
         <Routes />

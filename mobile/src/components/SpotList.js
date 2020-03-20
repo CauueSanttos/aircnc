@@ -16,7 +16,7 @@ function SpotList({ tech, navigation }) {
       setSpots(response.data.map(spot => {
         return {
           ...spot,
-          thumbUri: spot.thumbnail_url.replace('localhost', '192.168.1.3')
+          thumbUri: spot.thumbnail_url.replace('localhost', '192.168.1.5')
         }
       }));
     }

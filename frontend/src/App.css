@@ -35,6 +35,10 @@ button {
   align-items: center;
 }
 
+.container img {
+  cursor: pointer;
+}
+
 .content {
   width: 100%;
   background: #fff;
