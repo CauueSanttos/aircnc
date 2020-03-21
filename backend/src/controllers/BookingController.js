@@ -1,6 +1,6 @@
-const Booking = require('../models/Booking');
+import Booking from '../models/Booking';
 
-module.exports = {
+class BookingController {
   async store(req, res) {
     const { user_id: user } = req.headers;
     const { spot_id: spot } = req.params;
@@ -24,5 +24,7 @@ module.exports = {
     }
 
     return res.json(newBooking);
-  },
+  }
 };
+
+export default new BookingController();

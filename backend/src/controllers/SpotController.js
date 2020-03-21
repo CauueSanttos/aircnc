@@ -1,14 +1,14 @@
-const Spot = require('../models/Spot');
-const User = require('../models/User');
+import Spot from '../models/Spot';
+import User from '../models/User';
 
-module.exports = {
+class SpotController {
   async index(req, res) {
     const { tech } = req.query;
 
     const spots = await Spot.find({ techs: tech });
 
     return res.json(spots);
-  },
+  }
 
   async store(req, res) {
     const { filename } = req.file;
@@ -30,5 +30,7 @@ module.exports = {
     });
 
     return res.json(newSpot);
-  },
+  }
 };
+
+export default new SpotController();
