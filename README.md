@@ -17,13 +17,9 @@ Aircnc
 <br>
 
 <p align="center">
-  <img src="https://im6.ezgif.com/tmp/ezgif-6-6d9181988217.gif" alt="demo" height="demo">
+  <img src="https://i.imgur.com/3oJqUvN.gif" alt="demo" height="demo">
 </p>
   
-<p align="center">
-  <img src="https://im6.ezgif.com/tmp/ezgif-6-623c5db99ae5.gif" alt="demo" height="demo">
-</p>
-
 <br>
 
 <p align="center">
