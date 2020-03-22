@@ -17,7 +17,11 @@ Aircnc
 <br>
 
 <p align="center">
-  <img src="https://i.imgur.com/3oJqUvN.gif" alt="demo" height="demo">
+  <img src="https://media-exp1.licdn.com/dms/image/C4E22AQHT-WWWqq1F2A/feedshare-shrink_1280/0?e=1587600000&v=beta&t=ATc-AKVwB5l1UB-bAPwBxviXVj2xj7EsBfzgOwkTgmg" alt="demo" height="demo">
+</p>
+  
+<p align="center">
+  <img src="https://media-exp1.licdn.com/dms/image/C4E22AQHxuRI43VLH3g/feedshare-shrink_800/0?e=1587600000&v=beta&t=nwhXRapnqeTQ1ZpFYUse2eceSUxv7QW605JLEzDlABE" alt="demo" height="demo">
 </p>
   
 <br>
