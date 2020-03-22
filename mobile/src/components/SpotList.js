@@ -3,6 +3,7 @@ import { withNavigation } from 'react-navigation';
 import { View, StyleSheet, Text, FlatList, Image, TouchableOpacity } from 'react-native';
 
 import api from '../services/api';
+import { imageUrl } from '../configs/host';
 
 function SpotList({ tech, navigation }) {
   const [spots, setSpots] = useState([]);
@@ -16,7 +17,7 @@ function SpotList({ tech, navigation }) {
       setSpots(response.data.map(spot => {
         return {
           ...spot,
-          thumbUri: spot.thumbnail_url.replace('localhost', '192.168.1.5')
+          thumbUri: spot.thumbnail_url.replace('localhost', imageUrl)
         }
       }));
     }

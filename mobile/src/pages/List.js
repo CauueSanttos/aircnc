@@ -6,12 +6,14 @@ import SpotList from '../components/SpotList';
 
 import logo from '../assets/logo.png';
 
+import { hostUrl } from '../configs/host';
+
 export default function List({ navigation }) {
   const [techs, setTechs] = useState([]);
 
   useEffect(() => {
     AsyncStorage.getItem('user').then(user_id => {
-      const socket = socketio('http://192.168.1.5:3333', {
+      const socket = socketio(hostUrl, {
         query: { user_id }
       });
 
