@@ -24,6 +24,25 @@ Aircnc
   <img src="https://im6.ezgif.com/tmp/ezgif-6-623c5db99ae5.gif" alt="demo" height="demo">
 </p>
 
+<br>
+
+<p align="center">
+  <img src="https://i.imgur.com/IkhdL5O.jpg" alt="demo" height="250">
+  <img src="https://i.imgur.com/6Yin1P6.jpg" alt="demo" height="250">
+  <img src="https://i.imgur.com/PtBcIAc.jpg" alt="demo" height="250">
+  <img src="https://i.imgur.com/XmLEUNj.jpg" alt="demo" height="250">
+  <img src="https://i.imgur.com/ANj5pgz.jpg" alt="demo" height="250">
+</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/gC1kQKX.jpg" alt="demo" height="250">
+  <img src="https://i.imgur.com/o8qCF4M.jpg" alt="demo" height="250">
+  <img src="https://i.imgur.com/WOk0Xfg.jpg" alt="demo" height="250">
+  <img src="https://i.imgur.com/CpCgo0w.jpg" alt="demo" height="250">
+  <img src="https://i.imgur.com/i8D08L9.jpg" alt="demo" height="250">
+</p>
+
+
 ## Tecnologias
 [//]: # (Add the features of your project here:)
 Este aplicativo apresenta todas as mais recentes ferramentas e práticas em desenvolvimento web!
