@@ -39,10 +39,9 @@ Este aplicativo apresenta todas as mais recentes ferramentas e práticas em dese
 3 - Execute o comando **yarn** no diretório **frontend** para instalar as dependências. <br />
 4 - Execute o comando **yarn** no diretório **mobile** para instalar as dependências. <br />
 5 - Após instalar as dependências é necessário iniciar os três projetos. <br />
-6 - Execute **yarn dev** para executar o backend.
-7 - Execute **yarn start** para executar o frontend e o mobile.
+6 - Execute **yarn dev** para executar o backend. <br />
+7 - Execute **yarn start** para executar o frontend e o mobile. <br />
 8 - Como foi utilizado o Expo para o desenvolvimento, é necessário ter o Expo instalado no seu device.
-
 
 ## Licença
 
